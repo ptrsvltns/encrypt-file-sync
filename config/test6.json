@@ -1,0 +1,7 @@
+{
+  "from": "test/dist",
+  "to": "test/dist2",
+  "key": "9081273980af47f0",
+  "iv": "8b92f24105134027",
+  "ignore": "dist.*"
+}

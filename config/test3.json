@@ -1,0 +1,7 @@
+{
+  "from": "test",
+  "to": "test/dist3",
+  "fullhex": true,
+  "ignore": "dist.*",
+  "db": false
+}

@@ -1,0 +1,6 @@
+{
+  "from": "test",
+  "to": "test/dist5",
+  "ignore": "dist.*",
+  "db": false
+}
