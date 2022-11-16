@@ -1,0 +1,1 @@
+const fs = require('fs-extra');const md5File = require('md5-file');var argv = require('minimist')(process.argv.slice(2));if (!argv.file) {  console.log("请传参 --file");  process.exit();}if (!fs.existsSync(argv.file)) {  console.log("找不到文件", argv.file);  process.exit();}const md5 = md5File.sync(argv.file);console.log("文件", argv.file);console.log("MD5", md5);

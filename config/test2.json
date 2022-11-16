@@ -1,0 +1,5 @@
+{
+  "from": "test/dist",
+  "to": "test/dist2",
+  "ignore": "dist.*"
+}

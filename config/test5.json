@@ -1,0 +1,8 @@
+{
+  "from": "test/dist3",
+  "to": "test/dist4",
+  "fullhex": true,
+  "key": "9081273980af47f0",
+  "iv": "8b92f24105134027",
+  "ignore": "dist.*"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "zip-file-sync",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ptrsvltns",
+  "license": "GNU",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "chalk": "4.1.2",
+    "fs-extra": "^10.1.0",
+    "inquirer": "8.2.4",
+    "md5-file": "^5.0.0",
+    "minimist": "^1.2.7",
+    "moment": "^2.29.4",
+    "uuid": "^9.0.0",
+    "zip-lib": "^0.7.3"
+  }
+}

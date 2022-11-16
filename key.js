@@ -1,0 +1,1 @@
+const uuid = require("uuid")let iv = uuid.v4().replace(/-/g, "")iv = iv.substring(0, 16)console.log(iv)
